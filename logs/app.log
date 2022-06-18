@@ -163,3 +163,66 @@ Postman-Token: 3ae8a88c-a051-42cf-9537-b232465efb58
 User-Agent: PostmanRuntime/7.29.0
 
 
+GET /ping HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: 8fcada59-e26c-4d8d-a44d-6eed83d1a974
+User-Agent: PostmanRuntime/7.29.0
+
+
+GET /ping HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: 12a22548-22f1-40e7-9ffa-effdd9ec257e
+User-Agent: PostmanRuntime/7.29.0
+
+
+GET /ping HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: df167007-20e2-4bf4-b04d-4c28c2710c36
+User-Agent: PostmanRuntime/7.29.0
+
+
+GET /ping HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: 178d39dc-3789-4e03-ab5c-6761ff218494
+User-Agent: PostmanRuntime/7.29.0
+
+
+GET /img HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: b9bf0d50-05fe-4d61-ab00-0c40cab63735
+User-Agent: PostmanRuntime/7.29.0
+
+
+GET /img HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: a1309993-0452-4edb-8e59-ea223e7dfe71
+User-Agent: PostmanRuntime/7.29.0
+
+
+GET /img HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Postman-Token: cd6e01bd-adbb-4019-a2f5-3d87dfeefd47
+User-Agent: PostmanRuntime/7.29.0
+
+
