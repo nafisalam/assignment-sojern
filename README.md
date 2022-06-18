@@ -1,5 +1,12 @@
 # Project
 
+This application provides solution of the below problems
+
+  1. Util - 'compare versions' 
+  2. Application - 'tracking web server'.
+  
+Note:  The assignment code of /img and /ping APIs are in the api.go file of the server folder. The version check util code is in the version.go file of the util folder.
+
 This application has below folders structure.
 
 1. .conf : It is a configuration related folder and it has all the environment and application related config parameters.
@@ -15,6 +22,11 @@ This application has below folders structure.
 6. util : It has the version check code file and other files related to the application.
 
 7. tmp : It has the ok file.
+
+Prerequisite:
+
+1. Install Go library in you system.
+2. Setup the Go path.
 
 Instructions to run the application locally:
 
@@ -38,6 +50,4 @@ Instructions to run the application locally:
     2. go test ./... -coverprofile cover.out
     3. go tool cover -func cover.out
     Note: The version.go has the version check code and version_test.go has the test cases.
-
-Note: The assignment code of /img and /ping APIs are in the server folder. The version check util code is in the util folder. As per the instruction i have solved only two questions out of three questions(1. Util - 'compare versions' 2. tracking webserver).
  
