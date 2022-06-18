@@ -1,0 +1,4 @@
+logsPath: ./logs/app.log
+imagePath: ./image/img.gif
+statusFilePath: ./tmp/ok
+bannerPath: ./image/banner.txt
