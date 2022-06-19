@@ -5,7 +5,7 @@ This application provides solution of the below problems
   1. Util - 'compare versions' 
   2. Application - 'tracking web server'.
   
-Note:  The assignment code of /img and /ping APIs are in the api.go file of the server folder. The version check util code is in the version.go file of the util folder.
+Note:  The assignment code of /img and /ping APIs are in the api.go file of the server folder. api_test.go has the test cases for the api.go. The version check util code is in the version.go file of the util folder. version_test.go file has the test cases for version check.
 
 This application has below folders structure.
 
@@ -49,5 +49,5 @@ Instructions to run the application locally:
     1. go test -run TestCompareVersions 
     2. go test ./... -coverprofile cover.out
     3. go tool cover -func cover.out
-    Note: The version.go has the version check code and version_test.go has the test cases.
+
  
